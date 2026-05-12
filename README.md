@@ -1,16 +1,31 @@
-## Hi there 👋
+### Hi, I'm Emanuele 👋
 
-<!--
-**emaferr90/emaferr90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PHP developer from Caltanissetta, Sicily 🇮🇹  
+Building things with Laravel — and teaching them to think with NeuronAI.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### What I do
+
+- 🐘 **PHP / Laravel** — my daily craft, my comfort zone, my love
+- 🧠 **NeuronAI** — proud advocate of the PHP framework for AI agents
+- 🐹 **Go** — exploring, one goroutine at a time
+- 🤖 **Claude** — daily companion, occasional muse
+
+---
+
+#### Currently
+
+Working with **Laravel 13** and **NeuronAI**, exploring how PHP and AI agents can build something greater together.
+
+---
+
+#### Find me
+
+- ✉️  [ema.ferr@icloud.com](mailto:ema.ferr@icloud.com)
+- 💼  [LinkedIn](https://www.linkedin.com/in/emanuele-ferrauto)
+- 🐙  [GitHub](https://github.com/emaferr90)
+
+---
+
+<sub><i>"Code is poetry. Laravel is the rhyme."</i></sub>
