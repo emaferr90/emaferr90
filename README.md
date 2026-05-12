@@ -122,11 +122,17 @@ Daily pair-programmer with **Claude**. I don't just use AI — I architect aroun
 
 <div align="center">
 
-![Emanuele's GitHub stats](https://github-readme-stats.vercel.app/api?username=emaferr90&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emaferr90&theme=tokyonight" alt="Profile Details" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emaferr90&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=emaferr90&theme=tokyonight" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=emaferr90&theme=tokyonight&utcOffset=1" alt="Productive Time" />
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=emaferr90&theme=tokyonight&hide_border=true)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emaferr90&theme=tokyonight" alt="Top Repos per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=emaferr90&theme=tokyonight" alt="Most Commit Languages" />
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=emaferr90&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
 
 </div>
 
