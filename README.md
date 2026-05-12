@@ -23,8 +23,8 @@ namespace App\Developer;
 
 class Emanuele extends Human implements Hireable
 {
-    public string $role = 'Backend Developer';
-    public string $stack = 'PHP / Laravel';
+    public string $role = 'Backend Developer & DevOps Enthusiast';
+    public string $stack = 'PHP / Laravel / AWS';
     public array $passions = ['Clean Code', 'AI Agents', 'Espresso'];
 
     public function currentFocus(): string
@@ -62,6 +62,20 @@ Years of building production applications with **Laravel**, riding every wave up
 <tr>
 <td width="50%" valign="top">
 
+### ☁️ AWS & Cloud Deployment
+Production-ready infrastructure on **AWS**: EC2, RDS, S3, CloudFront. From local commit to live server — the full pipeline.
+
+</td>
+<td width="50%" valign="top">
+
+### 🔧 Laravel Forge Power User
+**Laravel Forge** for zero-downtime deployments, queue workers, scheduled tasks, SSL automation. Where Laravel apps go to *thrive*.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🐹 Go Curious
 Expanding horizons with **Go** — because concurrency, simplicity, and performance speak a language worth learning.
 
@@ -91,8 +105,12 @@ Daily pair-programmer with **Claude**. I don't just use AI — I architect aroun
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Laravel Forge](https://img.shields.io/badge/Laravel_Forge-2B2D2F?style=for-the-badge&logo=laravel&logoColor=FF2D20)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
